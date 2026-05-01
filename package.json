@@ -1,0 +1,9 @@
+{
+  "name": "day-concrete-llc",
+  "version": "1.0.0",
+  "description": "Day Concrete LLC — Riverton, Wyoming",
+  "scripts": {
+    "build": "echo 'Static HTML site — no build required'",
+    "start": "echo 'Static HTML site'"
+  }
+}
